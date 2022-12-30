@@ -1,0 +1,9 @@
+.obsidian
+00*.md
+01*/*.md
+02*/*.md
+03*/*.md
+04*/*.md
+05*/*.md
+92 - Attachments/*
+.DS_Store

@@ -1,0 +1,1 @@
+Primary Categories: { [[<% tp.user.getPrimaryCats(tp) %>]] }
